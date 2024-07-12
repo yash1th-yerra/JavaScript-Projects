@@ -1,4 +1,62 @@
-html {
-  height: 100%;
-  width: 100%;
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  color: #343a40;
+}
+
+.banner {
+  background-color: #007bff;
+  color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.form-group {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.btn-dark {
+  background-color: #343a40;
+  border-color: #343a40;
+}
+
+.btn-dark:hover {
+  background-color: #23272b;
+  border-color: #1d2124;
+}
+
+.card-deck {
+  justify-content: center;
+}
+
+.card {
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+}
+
+.card-header {
+  background-color: #007bff;
+  color: white;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.card-body {
+  background-color: white;
+  color: #343a40;
+}
+
+.card-title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.list-unstyled {
+  padding: 0;
+}
+
+.list-unstyled li {
+  font-size: 1.25rem;
+  margin-bottom: 10px;
 }
