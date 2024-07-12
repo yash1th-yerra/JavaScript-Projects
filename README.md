@@ -64,10 +64,8 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For any questions or issues, please reach out to your-email@example.com.
+For any questions or issues, please reach out to yashwanthyash7ms@gmail.com
 
-```arduino
-Make sure to replace `https://github.com/your-username/weather-app.git` with the actual URL of your Git repository and `your-email@example.com` with your contact email. You can also add or adjust sections based on your specific needs and project details.```
 
 
 
