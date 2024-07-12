@@ -9,7 +9,7 @@ This is a simple weather application built with HTML, CSS, and JavaScript. It re
 - **Search for Weather**: Enter a city name and get real-time weather data.
 - **Display Weather Information**: Shows current temperature, minimum and maximum temperatures, and weather conditions.
 
-## Technologies Used
+## Technologies Used 
 
 - **HTML**: Markup language for structuring the web page.
 - **CSS**: Stylesheet language for styling the web page.
