@@ -65,5 +65,4 @@ Make sure you have an internet connection if the project relies on external APIs
 Contributing
 Feel free to fork this repository and submit pull requests with improvements or bug fixes. Contributions are welcome!
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
