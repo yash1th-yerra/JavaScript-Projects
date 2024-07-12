@@ -66,8 +66,7 @@ Attack and heal sounds for both players.
 Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes. For major changes, please open an issue first to discuss what you'd like to change.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 Happy gaming!
 
