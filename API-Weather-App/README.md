@@ -60,9 +60,6 @@ showWeatherData(weatherData): Updates the HTML with the weather data retrieved f
 Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Contact
 For any questions or issues, please reach out to yashwanthyash7ms@gmail.com
 
