@@ -1,5 +1,4 @@
-markdown
-Copy code
+
 # Fighting Game
 
 Welcome to the Fighting Game! This is a simple web-based fighting simulation game where two players (Hulk and Thanos) battle it out. Players can attack and heal, and the game will automatically simulate turns until one player's health reaches zero.
